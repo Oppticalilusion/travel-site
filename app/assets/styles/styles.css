@@ -1,10 +1,10 @@
 /* Main file that points to the individual css files */
 
 @import "normalize.css";
-@import "modules/_large-hero";
 @import "base/_global";
-
-
+@import "base/_variables";
+@import "modules/_large-hero";
+@import "modules/_btn";
 
 
 /* Dummy css for gulp (Part 4)
