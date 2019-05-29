@@ -17,6 +17,8 @@
 @import "modules/_testimonial";
 @import "modules/_sprite";
 @import "modules/_site-footer";
+@import "modules/_site-header";
+@import "modules/_primary-nav";
 
 /* Dummy css for gulp (Part 4)
 $mainBlue: #2f5572;
