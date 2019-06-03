@@ -6,7 +6,14 @@
  	}
  }
 
+
 module.exports = Person;
+
+//console.log("Hello from Person.js");
+//exports.exampleProperty = "Super value";
+//exports.exampleFxn = function() {
+//	alert("FREAK OUT");
+//}
 
 // --------------------------------------------------------------------------------
 
