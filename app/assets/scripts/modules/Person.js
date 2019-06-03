@@ -1,14 +1,28 @@
- function Person(fullName, favColor) {
- 	this.name = fullName;
- 	this.favoriteColor = favColor;
- 	this.greet = function() {
- 		console.log("Hello there, " + this.name + ". I like the color " + this.favoriteColor + ".");
- 	}
- }
+class Person {
+	constructor(fullName, favColor) {
+		this.name = fullName;
+		this.favoriteColor = favColor;
+	}
 
-
+ 	greet() {
+ 		console.log("Hello there..., " + this.name + ". I like the color " + this.favoriteColor + ".");
+	}
+}
+ 
+//export default Person;
 module.exports = Person;
 
+/* 
+function Person(fullName, favColor) {
+	this.name = fullName;
+	this.favoriteColor = favColor;
+	this.greet = function() {
+		console.log("Hello there, " + this.name);
+	}
+}
+*/
+
+//--------------------------------------------
 //console.log("Hello from Person.js");
 //exports.exampleProperty = "Super value";
 //exports.exampleFxn = function() {
