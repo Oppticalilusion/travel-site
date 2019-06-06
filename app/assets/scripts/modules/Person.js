@@ -5,7 +5,8 @@ class Person {
 	}
 
  	greet() {
- 		console.log("Hello there..., " + this.name + ". I like the color " + this.favoriteColor + ".");
+ 		console.log("Hello there..., " + this.name +
+ 		 ". I like the color " + this.favoriteColor + ".");
 	}
 }
  
