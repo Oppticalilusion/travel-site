@@ -1,15 +1,15 @@
 <strong>From the Udemy Course Page:</strong>
 
 About this course
-Learn Git, GitHub, Node.js, NPM, Object-oriented JavaScript, ES6, webpack, Gulp, BEM and Job Interview Tips
-
-By the numbers
-Skill level: Beginner Level
-Students: 21622
-Languages: English
-Captions: Yes
-Lectures: 63
-Video: 15.5 hours
+Learn Git, GitHub, Node.js, NPM, Object-oriented JavaScript, ES6, webpack, Gulp, BEM and Job Interview Tips <br>
+<br>
+By the numbers<br>
+Skill level: Beginner Level<br>
+Students: 21622<br>
+Languages: English<br>
+Captions: Yes<br>
+Lectures: 63<br>
+Video: 15.5 hours<br>
 
 //----------------------------------------------------------//
 
