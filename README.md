@@ -1,6 +1,6 @@
 <strong>From the Udemy Course Page:</strong>
 
-About this course
+About this course <br>
 Learn Git, GitHub, Node.js, NPM, Object-oriented JavaScript, ES6, webpack, Gulp, BEM and Job Interview Tips <br>
 <br>
 By the numbers<br>
