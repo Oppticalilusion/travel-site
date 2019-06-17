@@ -1,3 +1,5 @@
+/* This file was deleted during the course, I have kept it as reference*/
+
 class Person {
 	constructor(fullName, favColor) {
 		this.name = fullName;

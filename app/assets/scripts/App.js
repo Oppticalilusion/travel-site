@@ -1,3 +1,11 @@
+/* Kevan Rayner 2019 */
+
+import MobileMenu from './modules/MobileMenu';
+
+var mobileMenu = new MobileMenu();
+
+
+/* Examples used
 var $ = require('jquery');
 //var Person = require('./modules/Person');
 import Person from './modules/Person';
@@ -21,3 +29,4 @@ class Adult extends Person {
 
 //console.log(Person.exampleProperty);
 //Person.exampleFxn();
+*/
