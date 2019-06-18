@@ -11118,7 +11118,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var mobileMenu = new _MobileMenu2.default(); /* Kevan Rayner 2019 */
 
 new _RevealOnScroll2.default((0, _jquery2.default)(".feature-item"), "85%"); //Our-features area
-new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "60%"); //Testimonials
+new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "60%"); //Testimonials area
 
 var stickyHeader = new _StickyHeader2.default();
 
