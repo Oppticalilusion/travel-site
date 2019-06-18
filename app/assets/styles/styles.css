@@ -20,6 +20,8 @@
 @import "modules/_site-header";
 @import "modules/_primary-nav";
 @import "modules/_reveal-item";
+@import "modules/_modal";
+@import "modules/_social-icons";
 
 /* Dummy css for gulp (Part 4)
 $mainBlue: #2f5572;
