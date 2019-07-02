@@ -14,3 +14,12 @@ Video: 15.5 hours<br>
 //----------------------------------------------------------//
 
 I took this course to gain an understanding of git and how to properly work with a version control system. I have used github in the past, but wanted to find a way to unlock git behind it.
+
+Completed:
+15.5 hours of video
+__ individual lessons
+
+Time:
+
+
+//---------------------------------------------------------//
