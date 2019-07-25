@@ -19,7 +19,10 @@ Completed:
 15.5 hours of video
 __ individual lessons
 
-Time:
+Time: 2 Months (April-June 2019)
 
 
 //---------------------------------------------------------//
+
+
+Gulp has updated, hence the security vulnerabilities.
